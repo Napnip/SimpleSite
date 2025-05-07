@@ -1,2 +1,1 @@
-# SimpleSite
-ICP Philippines 
+# archieverania.github.io
